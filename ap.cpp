@@ -16,5 +16,5 @@ if(p==d){
 else{
     cout<<"not a pollindom number"<<endl;
 }
-
+return 0;
 }
